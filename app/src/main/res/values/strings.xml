@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FloraLens</string>
+    <string name="bacterial_spot">For more information about Bacterial Spot, click \n<a href="https://hort.extension.wisc.edu/articles/bacterial-spot-of-tomato/">here</a></string>
+    <string name="early_blight">For more information about Early Blight, click \n<a href="https://extension.umn.edu/disease-management/early-blight-tomato">here</a></string>
+    <string name="late_blight">For more information about Late Blight, click \n<a href="https://extension.umn.edu/disease-management/late-blight">here</a></string>
+    <string name="leaf_mold">For more information about Leaf Mode, click \n<a href="https://extension.umn.edu/disease-management/tomato-leaf-mold">here</a></string>
+    <string name="leaf_spot">For more information about Septoria Leaf Spot, click \n<a href="https://extension.umd.edu/resource/septoria-leaf-spot-tomatoes">here</a></string>
+    <string name="spider_mite">For more information about Two-Spotted Spider Mites, click \n<a href="https://extension.umn.edu/yard-and-garden-insects/spider-mites">here</a></string>
+    <string name="target_spot">For more information about Target Spot, click \n<a href="https://www.growingproduce.com/vegetables/take-the-right-aim-to-tame-target-spot-of-tomato/">here</a></string>
+    <string name="yellow_leaf">For more information about Yellow Leaf-Curl Virus, click \n<a href="https://www2.ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/">here</a></string>
+    <string name="mosaic_virus">For more information about Late Blight, click \n<a href="https://www.gardeningknowhow.com/edible/vegetables/tomato/managing-tomato-mosaic-virus.htm">here</a></string>
+    <string name="healthy">Your tomato plant is diagnosed as Healthy!</string>
+</resources>
