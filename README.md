@@ -1,2 +1,2 @@
 # FloraLens
-FloraLens code upload for CS HL IA. 
+FloraLens, my android app.
